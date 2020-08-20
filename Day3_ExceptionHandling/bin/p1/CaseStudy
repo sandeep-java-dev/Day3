@@ -1,0 +1,25 @@
+#1
+Create a CustomException Name : OutofTicketException 
+
+
+Stroyline 
+
+User can book max : 6 tickets 
+
+User have to enter the number of tickets purchased
+
+if its greater than 6 then raise OutofTicketException
+
+Hint :- u have to use thorw keyword
+
+throw new MyTicketException();
+
+
+#2:
+
+When to use ExceptionHandling and When to use if-else
+
+
+#3
+Complete Runtime Polymorphism
+
